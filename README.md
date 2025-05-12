@@ -25,19 +25,19 @@ This repository is designed to help you **crack internship interviews** by provi
 
 | No. | Topic Name | Link |
 |-----|------------|------|
-| 01 | **Object-Oriented Programming** | [🔗 Interview Questions](docs/OOP.md) |
+| 01 | **Object-Oriented Programming** | [🔗 Interview Questions](https://drive.google.com/drive/folders/1z1L5CaRxTZmpgXCeGb6MqHwM9ggHmssM?usp=drive_link) |
 | 02 | **DBMS Concepts** | [🔗 Interview Questions](docs/DBMS.md) |
-| 03 | **Design Patterns** | [🔗 Interview Questions](docs/Design_Patterns.md) |
+| 03 | **Design Patterns** | [🔗 Interview Questions](https://drive.google.com/drive/folders/1-yLsdtri39tNQES6qMc14evPqOaN7W4e?usp=sharing) |
 | 04 | **SQL** | [🔗 Interview Questions](docs/SQL.md) |
 | 05 | **NoSQL** | [🔗 Interview Questions](docs/NoSQL.md) |
 | 06 | **Data Structures & Algorithms** | [🔗 Interview Questions](docs/DSA.md) |
 | 07 | **Software Engineering Concepts** | [🔗 Interview Questions](docs/Software_Engineering.md) |
-| 08 | **Web Services (REST/SOAP)** | [🔗 Interview Questions](docs/Web_Services.md) |
+| 08 | **Web Services (REST/SOAP)** | [🔗 Interview Questions](https://drive.google.com/drive/folders/1rtKDQLbaSsPzpqMxzptghvS0sxbbGdTf?usp=drive_link) |
 | 09 | **Version Control (Git)** | [🔗 Interview Questions](docs/Git.md) |
 | 10 | **Java** | [🔗 Interview Questions](docs/Java.md) |
 | 11 | **JavaScript** | [🔗 Interview Questions](docs/JavaScript.md) |
 | 12 | **React JS** | [🔗 Interview Questions](docs/ReactJS.md) |
-| 13 | **Next JS** | [🔗 Interview Questions](https://docs.google.com/document/d/1ZY6ojDVDgeN0JtIdHkfXYl32gawnQnmD7-4I66eosKg/edit?usp=drive_link) |
+| 13 | **Next JS** | [🔗 Interview Questions](https://drive.google.com/drive/folders/1R71Lj_3rq50bxue_hv_VXIhCHZk8hqDW?usp=sharing) |
 | 14 | **Spring Boot** | [🔗 Interview Questions](docs/SpringBoot.md) |
 | 15 | **Node JS** | [🔗 Interview Questions](docs/NodeJS.md) |
 | 16 | **Flutter** | [🔗 Interview Questions](docs/Flutter.md) |
